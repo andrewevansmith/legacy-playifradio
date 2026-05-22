@@ -7,8 +7,8 @@
  * within the application.  For example: http://myapp.tld/c/m/p1/p2 
  * will execute (controller) C->m(p1,p2) 
  * 
- * @author Andrew Evan Smith
- * @copyright 2012 Andrew Evan Smith
+ * @author Legacy archive
+ * @copyright 2012 Legacy archive
  * @license http://www.php.net/license/3_01.txt PHP License 3.01 
  */  
 

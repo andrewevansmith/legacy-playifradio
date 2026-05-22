@@ -3,8 +3,8 @@
 /** 
  * A new MVC Framework
  * 
- * @author Andrew Evan Smith
- * @copyright 2012 Andrew Evan Smith 
+ * @author Legacy archive
+ * @copyright 2012 Legacy archive 
  * @license http://www.php.net/license/3_01.txt PHP License 3.01 
  */  
 
